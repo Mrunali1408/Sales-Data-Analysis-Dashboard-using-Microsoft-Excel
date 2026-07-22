@@ -5,22 +5,35 @@ This project demonstrates advanced Microsoft Excel skills for data analysis. The
 Tools Used
 
 Microsoft Excel
+
 Pivot Tables
+
 Pivot Charts
+
 Conditional Formatting
+
 Data Validation
+
 Slicers
+
 Dashboard
+
 Lookup Functions
+
 Logical Functions
 
 Skills Demonstrated
 
 Data Cleaning
+
 Data Analysis
+
 Dashboard Design
+
 Business Reporting
+
 Data Visualization
+
 Excel Automation
 
 Business Insights
