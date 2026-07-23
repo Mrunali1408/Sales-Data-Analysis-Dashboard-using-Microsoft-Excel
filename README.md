@@ -2,7 +2,7 @@ Project Overview
 
 This project demonstrates advanced Microsoft Excel skills for data analysis. The dataset contains sales transactions across multiple regions and product categories. The project showcases data cleaning, formula-based calculations, Pivot Tables, charts, dashboards, and business insights.
 
-Tools Used
+  Tools Used
 
 Microsoft Excel
 
