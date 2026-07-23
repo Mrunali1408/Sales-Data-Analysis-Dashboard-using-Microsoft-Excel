@@ -4,39 +4,39 @@ This project demonstrates advanced Microsoft Excel skills for data analysis. The
 
 ##  Tools Used
 
--- Microsoft Excel
+- Microsoft Excel
 
--- Pivot Tables
+- Pivot Tables
 
--- Pivot Charts
+- Pivot Charts
 
--- Conditional Formatting
+- Conditional Formatting
 
--- Data Validation
+- Data Validation
 
--- Slicers
+- Slicers
 
 ## Dashboard
 
--- Lookup Functions
+- Lookup Functions
 
--- Logical Functions
+- Logical Functions
 
--- Skills Demonstrated
+- Skills Demonstrated
 
--- Data Cleaning
+- Data Cleaning
 
--- Data Analysis
+- Data Analysis
 
--- Dashboard Design
+- Dashboard Design
 
--- Business Reporting
+- Business Reporting
 
--- Data Visualization
+- Data Visualization
 
--- Excel Automation
+- Excel Automation
 
--- Business Insights
+- Business Insights
 
 The West region generated the highest sales revenue.
 Laptops contributed the largest share of total profit.
